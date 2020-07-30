@@ -1,7 +1,7 @@
 # macOS on Dell XPS 9360
 Installiation method for dell xps 9360 in macOS Catalina on my device.
-This repo's license is GNUv3. It means that you can get this repo out for your own repo or anything, but you need to have the address of this repo.
-This repo is based on [the darkvoid](https://github.com/the-darkvoid/XPS9360-macOS)
+This repo's license is GNUv3. It means that you can get this repo out for your own repo or anything, but you need to have the address of this repo on your README.md.  
+This repo is based on [the darkvoid](https://github.com/the-darkvoid/XPS9360-macOS).
 
 ## Used Hardware Configuration
 - Dell XPS 9360
